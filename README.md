@@ -4,7 +4,7 @@
 
 </div>
 
-I am Eri, Africa's passionate developer; experienced software engineer working on some of the coolest ideas from ground up. My tagine? `epiphany to code` - yes,
+Hi, I'm Eri, Africa's passionate developer; experienced software engineer, working on some of the coolest ideas from ground up. My tagine? `epiphany to code`;
 I have been involved in working projects from zero to one for a while. 
 
 
