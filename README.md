@@ -8,11 +8,12 @@ I am Eri, Africa's passionate developer; experienced software engineer working o
 I have been involved in working projects from zero to one for a while. 
 
 
-<div salign="center">
+<div align="center">
 
 ### @50-Course ❤️ Open Source
 
 </div>
+
 
 50-Course loves open-source, are you building something cool for the community, drop by my dms and let's 
 
