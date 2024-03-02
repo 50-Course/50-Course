@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there & welcome to my little hood 👋
+# Hi there & welcome to my hood 👋
 
 </div>
 
@@ -15,9 +15,7 @@ I have been involved in working projects from zero to one for a while.
 </div>
 
 
-Are you building something cool for the community? drop by my dms and let's talk about it.
-
-What have I been upto? Below are highlights of the projects having be working on recently or contributing to:
+Are you building something cool for the community? drop by my dms and let's talk about it. What have I been upto? Below are highlights of the projects having be working on recently or contributing to:
 
 - Paycheck: Financial application that puts your tradiditonal bank to shame! - I mean, figuratively! Paycheck started as a side-project
 in late 2020 in a small room, evolved over time, went through different phases of research and development, pivots and once almost got thrown away
