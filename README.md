@@ -1,11 +1,13 @@
+<div style='text-align: center;'>
 ### Hi there & welcome to my little hood 👋
+</div>
 
 I am Eri, Africa's passionate developer; experienced software engineer working on some of the coolest ideas from ground up. My tagine? `epiphany to code` - yes,
 I have been involved in working projects from zero to one for a while. 
 
 
 <div style='text-align: center;'>
-    @50-Course ❤️ Open Source
+### @50-Course ❤️ Open Source
 
 </div>
 
