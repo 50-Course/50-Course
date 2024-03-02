@@ -81,15 +81,17 @@ local editors = {
     'Emacs', -- let's face it, emacs is cool
 }
 
---- Platforms I have indepth understanding of
---- or have used professionally
+-- platforms I have worked with
 local platforms = {
     'Android',
     'Amazon Web Services',
     'Azure',
 }
 
+
 ```
+
+I possess deep understanding of the linux ecosystem - internals, core utils and the command-line, and have used it as my primary development environment for over 5 years.
 
 <!--
 **50-Course/50-Course** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
