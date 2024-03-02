@@ -63,7 +63,11 @@ local frameworks = {
     'React Native',
 }
 
-local editors = { 'Vim', 'Jetbrains', 'VIM', 'VIMMMMMMM', -- I write plugins for other editors tho :eyes: }
+local editors = {
+    'Vim', -- My primary editor
+    'IntelliJ', -- for JVM-based development with Vim plugin
+    'Emacs', -- let's face it, emacs is cool
+}
 
 --- Platforms I have indepth understanding of
 --- or have used professionally
