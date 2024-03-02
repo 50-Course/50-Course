@@ -49,6 +49,7 @@ Ask me about:
     - JS/Node ecosystem
     - Mobile and Native development
     - Performance engineering
+    - Dev Tooling
 
 
 ### Core competencies - Technologies-based:
