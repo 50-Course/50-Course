@@ -3,6 +3,12 @@
 I am Eri, Africa's passionate developer; experienced software engineer working on some of the coolest ideas from ground up. My tagine? `epiphany to code` - yes,
 I have been involved in working projects from zero to one for a while. 
 
+
+<div style='text-align: center;'>
+    @50-Course ❤️ Open Source
+
+</div>
+
 50-Course loves open-source, are you building something cool for the community, drop by my dms and let's 
 
 Below are highlights of the projects having be working on recently or contributing to:
@@ -34,7 +40,7 @@ Core competencies - Technologies-based:
 local languages = {
     'Python',
     'Java',
-    'C++',  --  basic proficiency
+    'C/C++',  --  basic proficiency
     'Rust', --  basic proficiency
     'Lua',
     'Javascript/TS',
@@ -49,6 +55,8 @@ local frameworks = {
     'Flutter',
     'React Native',
 }
+
+local editors = { 'Vim', 'Jetbrains', 'VIM', 'VIMMMMMMM', -- I write plugins for other editors tho :eyes: }
 
 --- Platforms I have indepth understanding of
 --- or have used professionally
