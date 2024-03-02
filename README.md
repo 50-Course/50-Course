@@ -9,8 +9,6 @@ I have been involved in working projects from zero to one for a while.
 
 <br></br>
 
-<br></br>
-
 <div align="center">
 
 ### @50-Course ❤️ Open Source
