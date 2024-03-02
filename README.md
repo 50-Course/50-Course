@@ -27,6 +27,18 @@ as an unworthy epiphany.
 
 - Saiit
 
+Contributions are welcome on any of my projects. I'm always open to new ideas and collaborations. I am currently seeking help on
+the following projects:
+
+- Sticky: A simple, fast and reliable note-taking application for developers.
+
+- Pytest-distributed: A fast alternative to `pytest-xdist` that cuts down test execution time on production pipelines
+
+- ClockIn: A simple, fast and reliable time-tracking application for developers.
+
+- Horizon-wm: A dead-simple, fast and reliable window manager for developers, designed perfectly for efficiency and ergonomy.
+
+
 
 Ask me about:
 
