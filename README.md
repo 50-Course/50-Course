@@ -15,9 +15,9 @@ I have been involved in working projects from zero to one for a while.
 </div>
 
 
-50-Course loves open-source, are you building something cool for the community, drop by my dms and let's 
+Are you building something cool for the community? drop by my dms and let's talk about it.
 
-Below are highlights of the projects having be working on recently or contributing to:
+What have I been upto? Below are highlights of the projects having be working on recently or contributing to:
 
 - Paycheck: Financial application that puts your tradiditonal bank to shame! - I mean, figuratively! Paycheck started as a side-project
 in late 2020 in a small room, evolved over time, went through different phases of research and development, pivots and once almost got thrown away
@@ -39,7 +39,8 @@ Ask me about:
     - Mobile and Native development
     - Performance engineering
 
-Core competencies - Technologies-based:
+
+### Core competencies - Technologies-based:
 
 ```lua
 
