@@ -24,8 +24,6 @@ Are you building something cool for the community? drop by my dms and let's talk
 
 - `Horizon-wm`: A dead-simple, fast and reliable window manager for developers, designed perfectly for efficiency and ergonomy
 
-- `ClockIn`: A simple, fast and reliable time-tracking application for developers written in Golang
-
 Contributions are welcome on any of my projects. I'm always open to new ideas and collaborations.
 
 Ask me about:
