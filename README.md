@@ -1,13 +1,11 @@
 <div align="center">
 
-# Hi there & welcome to my hood 👋
+# Hi there 👋
 
 </div>
 
-Hi, I'm Eri, Africa's passionate developer, experienced software engineer, working on some of the coolest ideas from ground up. My tagine? `epiphany to code`;
+Hi, I'm Eri, Africa's passionate developer, experienced software engineer, working on some of the coolest ideas from ground up. My tagine? `epiphany_to_code`;
 I have been involved in building perfomant projects from zero to one.
-
-<br></br>
 
 <div align="center">
 
@@ -15,35 +13,24 @@ I have been involved in building perfomant projects from zero to one.
 
 </div>
 
-
 Are you building something cool for the community? drop by my dms and let's talk about it. What have I been upto? Below are highlights of the projects having be working on recently or contributing to:
 
-- Paycheck: Financial application that puts your tradiditonal bank to shame! - I mean, figuratively! Paycheck started as a side-project
-in late 2020 in a small room, evolved over time, went through different phases of research and development, pivots and once almost got thrown away
-as an unworthy epiphany. 
+- `paycheck`: Financial application that puts your tradiditonal bank to shame! - I mean, figuratively!
+  Paycheck started as a side-project in late 2020 in a small room, evolved over time, went through different phases of research and development, pivots and once almost got thrown away as an unworthy epiphany
 
-- Pytest-destributed: A fast alternative to `pytest-xdist` that cuts down test execution time on production pipelines
+- `pytest-distributed`: A fast alternative to `pytest-xdist` that cuts down test execution time on production pipelines
 
-- django-toggul: Feature flag management tool for django applications.
+- `django-toggul`: Feature flag management tool for django applications
 
-- Saiit
+- `Horizon-wm`: A dead-simple, fast and reliable window manager for developers, designed perfectly for efficiency and ergonomy
 
-Contributions are welcome on any of my projects. I'm always open to new ideas and collaborations. I am currently seeking help on
-the following projects:
+- `ClockIn`: A simple, fast and reliable time-tracking application for developers written in Golang
 
-- Sticky: A simple, fast and reliable note-taking application for developers.
-
-- Pytest-distributed: A fast alternative to `pytest-xdist` that cuts down test execution time on production pipelines
-
-- ClockIn: A simple, fast and reliable time-tracking application for developers.
-
-- Horizon-wm: A dead-simple, fast and reliable window manager for developers, designed perfectly for efficiency and ergonomy.
-
-
+Contributions are welcome on any of my projects. I'm always open to new ideas and collaborations.
 
 Ask me about:
 
-    - Core software engineering
+    - Core engineering
     - Python ecosystem
     - Java/JVM ecosystem
     - JS/Node ecosystem
@@ -51,8 +38,7 @@ Ask me about:
     - Performance engineering
     - Dev Tooling
 
-
-### Core competencies - Technologies-based:
+### Technologies I love
 
 ```lua
 
@@ -63,6 +49,7 @@ local languages = {
     'Rust', --  basic proficiency
     'Lua',
     'Javascript/TS',
+    'Go',
     'Dart'
 }
 
@@ -74,20 +61,6 @@ local frameworks = {
     'Flutter',
     'React Native',
 }
-
-local editors = {
-    'Vim', -- My primary editor
-    'IntelliJ', -- for JVM-based development with Vim plugin
-    'Emacs', -- let's face it, emacs is cool
-}
-
--- platforms I have worked with
-local platforms = {
-    'Android',
-    'Amazon Web Services',
-    'Azure',
-}
-
 
 ```
 
