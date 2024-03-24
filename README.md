@@ -27,7 +27,12 @@ What have I been upto? Below are highlights of the projects having be working on
 
 Contributions are welcome on any of my projects. I'm always open to new ideas and collaborations.
 
+<details open>
+<summary>
+
 ### Technologies I love
+
+</summary>
 
 ```lua
 
@@ -52,6 +57,8 @@ local frameworks = {
 }
 
 ```
+
+</details>
 
 I possess deep understanding of the linux ecosystem - internals, core utils and the command-line, and have used it as my primary development environment for over 5 years.
 
