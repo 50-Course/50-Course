@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi there 👋
+# Hi there 👋 I am Eri
 
 </div>
 
-Hi, I'm Eri, Africa's passionate developer, experienced software engineer, working on some of the coolest ideas from ground up. My tagine? `epiphany_to_code`;
-I have been involved in building perfomant projects from zero to one.
+Hi, I'm Eri, Africa's passionate developer, seasoned software engineer with over 6 years of invaluable experience in the dynamic tech landscape, working on some of the coolest ideas from ground up. My tagine? `epiphany_to_code`;
+I have been involved in building perfomant projects from zero to one. My expertise spans across backend, and full-stack platforms, and I have a strong passion for open-source software and community-driven projects.
 
 <div align="center">
 
@@ -13,7 +13,8 @@ I have been involved in building perfomant projects from zero to one.
 
 </div>
 
-Are you building something cool for the community? drop by my dms and let's talk about it. What have I been upto? Below are highlights of the projects having be working on recently or contributing to:
+Let's talk about your next big idea, or how we can collaborate on something cool.
+What have I been upto? Below are highlights of the projects having be working on recently or contributing to:
 
 - `paycheck`: Financial application that puts your tradiditonal bank to shame! - I mean, figuratively!
   Paycheck started as a side-project in late 2020 in a small room, evolved over time, went through different phases of research and development, pivots and once almost got thrown away as an unworthy epiphany
@@ -25,16 +26,6 @@ Are you building something cool for the community? drop by my dms and let's talk
 - `Horizon-wm`: A dead-simple, fast and reliable window manager for developers, designed perfectly for efficiency and ergonomy
 
 Contributions are welcome on any of my projects. I'm always open to new ideas and collaborations.
-
-Ask me about:
-
-    - Core engineering
-    - Python ecosystem
-    - Java/JVM ecosystem
-    - JS/Node ecosystem
-    - Mobile and Native development
-    - Performance engineering
-    - Dev Tooling
 
 ### Technologies I love
 
@@ -55,7 +46,7 @@ local frameworks = {
     'Django',
     'Flask',
     'FastAPI',
-    'Spring Framework - MVC, ThymeLeaf, Boot, Batch, Microservices, Cloud',
+    'Spring Framework - MVC, ThymeLeaf, Boot, Microservices, Cloud',
     'Flutter',
     'React Native',
 }
@@ -64,6 +55,8 @@ local frameworks = {
 
 I possess deep understanding of the linux ecosystem - internals, core utils and the command-line, and have used it as my primary development environment for over 5 years.
 
+- 🌱 I’m currently learning Rust, and improving my proficiency in Go
+- ⚡ Fun fact: I have been working on my Japanese language proficiency for over a year now, and I understand basic Japanese conversations, and currently learning to read and write Hiranaga and Katakana.
 <!--
 **50-Course/50-Course** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -77,4 +70,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
