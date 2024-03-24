@@ -28,7 +28,7 @@ What have I been upto? Below are highlights of the projects having be working on
 Contributions are welcome on any of my projects. I'm always open to new ideas and collaborations.
 
 <details open>
-<summary> <em>Technologies I love </em> </summary>
+<summary> <em> **Technologies I love** </em> </summary>
 
 ```lua
 
