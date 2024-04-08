@@ -5,8 +5,7 @@
 </div>
 
 Hi, I'm Eri, Africa's passionate developer, senior software engineer with over 6 years of invaluable experience
-in the dynamic tech landscape. working on some of the coolest ideas from ground up. My tagine? `epiphany_to_code`.
-I have been involved in building perfomant projects from zero to one. My expertise spans across backend, and full-stack platforms,
+in the dynamic tech landscape. actively working Python, Java, Typescript and Go. I have been involved in building perfomant projects from zero to one. My expertise spans across backend, and full-stack platforms,
 and I have a strong passion for open-source software and community-driven projects.
 
 <div align="center">
