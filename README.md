@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, you found me 👋
+# Hello there--you found me 👋
 
 </div>
 
