@@ -1,11 +1,13 @@
 <div align="center">
 
-# Hi there 👋 I am Eri
+# Hi there, you found me 👋
 
 </div>
 
-Hi, I'm Eri, Africa's passionate developer, seasoned software engineer with over 6 years of invaluable experience in the dynamic tech landscape, working on some of the coolest ideas from ground up. My tagine? `epiphany_to_code`;
-I have been involved in building perfomant projects from zero to one. My expertise spans across backend, and full-stack platforms, and I have a strong passion for open-source software and community-driven projects.
+Hi, I'm Eri, Africa's passionate developer, senior software engineer with over 6 years of invaluable experience
+in the dynamic tech landscape. working on some of the coolest ideas from ground up. My tagine? `epiphany_to_code`.
+I have been involved in building perfomant projects from zero to one. My expertise spans across backend, and full-stack platforms,
+and I have a strong passion for open-source software and community-driven projects.
 
 <div align="center">
 
@@ -59,7 +61,9 @@ local frameworks = {
 I possess deep understanding of the linux ecosystem - internals, core utils and the command-line, and have used it as my primary development environment for over 5 years.
 
 - 🌱 I’m currently learning Rust, and improving my proficiency in Go
-- ⚡ Fun fact: I have been working on my Japanese language proficiency for over a year now, and I understand basic Japanese conversations, and currently learning to read and write Hiranaga and Katakana.
+- ⚡ Fun fact:
+I have been working on my Japanese language proficiency for over a year now, I understand basic Japanese conversations, and currently learning to read and write Hiranaga and Katakana.
+You may catch me on weekends learning Rust, or reading a book on Japanese culture and history.
 <!--
 **50-Course/50-Course** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
