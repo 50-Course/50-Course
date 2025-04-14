@@ -1,7 +1,13 @@
-"...creating value and pushing limits..."
+## codemage
 
-Experienced software engineer with hands-on experience ranging from solving core engineering problems in the HR tech, fintech/insure-tech/bank tech, communication to enterprise systems.
+**> who am I and what do I do?** :sweat_smile:
 
-As a seasoned software engineer, I excel in architecting APIs, microservices, managing databases with a little bit of platform touch in the mix. My expertise in Python, Java, Go, AWS, Docker, and Kubernetes allows me to build robust infrastructures. I stand out by collaborating effectively with cross-functional teams to ensure seamless integration and deliver scalable solutions that align with business goals.
+Hey! I'm Eri, and welcome to my little corner. I love open source and am always striving to improve my coding skills.
+I share that journey online to give others company along their journey and hopefully act as a source of encouragement along the way.
 
-Outside work, you'd catch me exploring adventures that brings out me to infuse creativity with imagination, with activities ranging from story writing, character development, or even brownfield/greenfield exploratory coding projects which allows me to explore languages such as Rust, for example or even C#/DotNet.
+I'm working with an incredible team of developers at @charmbracelet building and a whole lotta libraries.
+
+**> nerd stuff**
+
+- Languages & ecosystems I work with: Python, Java, Go, JavaScript, TypeScript, Rust
+- Editor: Vim, btw
