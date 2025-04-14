@@ -7,6 +7,6 @@ Hey! I'm Eri, and welcome to my little corner. I love open source and am always 
 **> nerd stuff**
 
 - Languages & ecosystems I work with: Python (primary ecosystem), Java, Go, JavaScript, TypeScript, Rust
-- Editor: Vim, btw (emacs someday, <em>tried in 2024 - failed, but we will be back</em>)
+- Editor: Vim, btw (emacs someday, <em>tried in 2024 - failed, but we will be back<p/em>)
 
 **> superpowers**
