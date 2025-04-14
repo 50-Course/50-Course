@@ -2,11 +2,14 @@
 
 **> who am I and what do I do?** :sweat_smile:
 
-Hey! I'm Eri, and welcome to my little corner. I love open source and am always striving to improve my coding skills.
+Hey! I'm Eri, and welcome to my little corner. I love open source and am not affraid of challenges. I am an experienced software engineer with hands-on experience ranging from solving core engineering problems in the HR tech, fintech/insure-tech/bank tech, communication to enterprise systems.
+Outside work, I explore adventures that brings that infuse creativity with imagination, with activities ranging from random story writing, character development, and sometimes concept-to-screen exploratory coding projects which allows me to explore languages and domains of interest such as Rust, C#/DotNet and lately Elixir.
 
 **> nerd stuff**
 
-- Languages & ecosystems I work with: Python (primary ecosystem), Java, Go, JavaScript, TypeScript, Rust
-- Editor: Vim, btw (emacs someday, <em>tried in 2024 - failed, but we will be back<p/em>)
+- Languages & ecosystems I work with: Python (primary ecosystem), Java, Go, JavaScript
+- PDE: Vim, btw (and maybe emacs, someday)
 
-**> superpowers**
+**> the vibe?** :relieved:
+
+chill, write some code, coffe-driven activities, eat, sleep and enjoy life 🍵
