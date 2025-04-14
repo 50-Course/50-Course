@@ -12,4 +12,8 @@ Outside work, I explore adventures that infuse creativity with imagination, with
 
 **> the vibe?** :relieved:
 
-chill, write some code, seek experiences, and enjoy life :v:
+write some code, chill, seek experiences, and enjoy life :v:
+
+**> fun fact**
+
+- am an avaition freak
