@@ -1,5 +1,7 @@
 ## codemage
 
+> <em> ...building systems with precision, value, and purpose </em>
+
 **> who am I and what do I do?** :sweat_smile:
 
 Hey! I'm Eri, and welcome to my little corner. I love open source and am not afraid of challenges. I am an experienced software engineer with hands-on experience ranging from solving core engineering problems in the HR tech, fintech/insure-tech/bank tech, communication to enterprise systems.
